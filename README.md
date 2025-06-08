@@ -12,9 +12,9 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/Beiatrixx/sistema-bancario-v-01/blob/main/assets/tela_deposito_realizado.png" alt="Tela de operação de depósito" width="300px">
-    <img src="https://github.com/Beiatrixx/sistema-bancario-v-01/blob/main/assets/tela_saque_realizado.png" alt="Tela de operação de saque" width="300px">
-    <img src="https://github.com/Beiatrixx/sistema-bancario-v-01/blob/main/assets/tela_extrato.png" alt="Tela de extrato bancário" width="300px">
+    <img src="https://github.com/Beiatrixx/sistema-bancario-v-01/blob/main/assets/tela_deposito_realizado.png" alt="Tela de operação de depósito" width="290px">
+    <img src="https://github.com/Beiatrixx/sistema-bancario-v-01/blob/main/assets/tela_saque_realizado.png" alt="Tela de operação de saque" width="290px">
+    <img src="https://github.com/Beiatrixx/sistema-bancario-v-01/blob/main/assets/tela_extrato.png" alt="Tela de extrato bancário" width="290px">
 </div>
 
 ## 📃 Descrição
